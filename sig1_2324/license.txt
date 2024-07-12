@@ -1,0 +1,5 @@
+helper URL
+  base_url():
+    Acceder a recursos estaticos (img/js/css/videos)
+  site_url():
+    Movernos entre controladores
